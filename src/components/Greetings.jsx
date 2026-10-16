@@ -3,10 +3,10 @@ function Greetings({nome, mensagem = "Seja bem vindo"}) {
         <div className= "greeting">
             <span className= "greeting__eyebrow">React - Primeiros Passos</span>
     <h1>{nome}, {mensagem}</h1>
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-        Dolorem deleniti dolore repudiandae delectus quasi quibusdam 
-        distinctio odit doloribus quia sed nesciunt nemo, sequi ipsa, 
-        tempore totam tenetur? Ad, at ducimus.</p>
+    <p>Esse texto nao faz sentido o motivo dele existir é apenas porquer
+        Preciso de um exemplo de texto e se nao tiver nao fara sentido essa
+        demonstração sem sentido
+    </p>
         </div>
     );
 }
